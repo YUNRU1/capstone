@@ -14,4 +14,4 @@ The data is too big that can not push to github, hence we put the manifest tcia 
 
 ## Links
 - Welcome to The Cancer Imaging Archive - The Cancer Imaging Archive (TCIA): https://www.cancerimagingarchive.net/
-- https://wiki.cancerimagingarchive.net/display/NBIA/Downloading+TCIA+Images: https://wiki.cancerimagingarchive.net/display/NBIA/Downloading+TCIA+Images
+- Downloading TCIA Images: https://wiki.cancerimagingarchive.net/display/NBIA/Downloading+TCIA+Images
